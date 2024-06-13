@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="35%" align="right" alt="Github" src="https://github.com/tharuka7/tharuka7/assets/60395300/84e4848f-bdbe-47bf-8da2-d2ee34509bba" />
 
 I'm Tharuka Fonseka, currently an undergraduate student at University of Colombo. I am passionate about creating ML models, data visualization, and constantly learning new things.
 
