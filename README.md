@@ -4,6 +4,6 @@
 
 I'm Tharuka Fonseka, currently an Applied Statistics undergraduate student at Faculty of Science University of Colombo . I am passionate about developing ML models, data visualization, and constantly learning new things.
 
-- 🔭 I’m currently looking for a data science & data analytics internship.
+- 🔭 I’m currently doing my intership as a data scientist
 - 📚 I’m interested in learning new technologies.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tharuka-fonseka/)
